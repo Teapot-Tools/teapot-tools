@@ -3,6 +3,8 @@
 Teapot-Tools is a very simple python 3 module that lets you play with Google's 418 teapot, by rotating it or making it pour tea whenever you want.
 ~~It currently only works with Firefox, but adapting it to Chrome would be pretty easy. Universal version coming soon:tm:~~ Universal version is out! See `Parameters` below. Untested on other browsers than Firefox, but it _should_ work on them as well.
 
+**WARNING: The pypi package is out of date. Will hopefully update it soon. Please manually install from this repo until then.**
+
 This module assumes you have the selenium package installed, and the path to its driver (depends on the browser you're using).
 
 ## Usage
